@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://vixel.github.io/sitemap.xml
+Sitemap: https://ardnz.github.io/sitemap.xml
